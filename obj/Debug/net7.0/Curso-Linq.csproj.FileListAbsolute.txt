@@ -1,0 +1,15 @@
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\bin\Debug\net7.0\Curso-Linq.exe
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\bin\Debug\net7.0\Curso-Linq.deps.json
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\bin\Debug\net7.0\Curso-Linq.runtimeconfig.json
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\bin\Debug\net7.0\Curso-Linq.dll
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\bin\Debug\net7.0\Curso-Linq.pdb
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\obj\Debug\net7.0\Curso-Linq.csproj.AssemblyReference.cache
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\obj\Debug\net7.0\Curso-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\obj\Debug\net7.0\Curso-Linq.AssemblyInfoInputs.cache
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\obj\Debug\net7.0\Curso-Linq.AssemblyInfo.cs
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\obj\Debug\net7.0\Curso-Linq.csproj.CoreCompileInputs.cache
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\obj\Debug\net7.0\Curso-Linq.dll
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\obj\Debug\net7.0\refint\Curso-Linq.dll
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\obj\Debug\net7.0\Curso-Linq.pdb
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\obj\Debug\net7.0\Curso-Linq.genruntimeconfig.cache
+C:\Users\LG\Desktop\Platzi-cursos\Curso-Linq\obj\Debug\net7.0\ref\Curso-Linq.dll
